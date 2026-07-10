@@ -1,0 +1,1 @@
+#!/usr/bin/env python3\n'''Testowy plik stworzony przez agenta Pi - browser_pilot v1.3.4'''\n\nimport sys\n\ndef main():\n    print('Hello from Pi Agent!')\n    return 0\n\nif __name__ == '__main__':\n    sys.exit(main())
